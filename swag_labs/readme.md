@@ -1,5 +1,5 @@
-test plan
-test cases
+test plan,
+test cases,
 bug report
 
 https://www.saucedemo.com/
